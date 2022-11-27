@@ -4,6 +4,6 @@ to jest testowe repo pythona
 - asdhaisfhasf
 - asdaf
 
-''' python
+``` python
 print("Hello World")
-'''
+```
